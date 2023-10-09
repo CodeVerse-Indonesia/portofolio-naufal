@@ -1,0 +1,1 @@
+Saya adalah mahasiswa di Program Studi Informatika, Fakultas Ilmu Komputer Universitas Amikom Purwokerto. Saya sudah belajar mengenai Dasar - Dasar HTML, CSS dan sekarang sedang belajar mengenai MySQL dan nanti akan mempelajari tentang Javascript, PHP, dan Laravel yang dibantu oleh mentor yang kompeten.
